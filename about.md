@@ -6,8 +6,6 @@ published: true
 ---
 Here you can find current schedule.
 
-## Curriculum
-
 1. Getting started
 - * What is Python?
 - * Why do we use Python?
@@ -23,4 +21,6 @@ Here you can find current schedule.
 
 ### Contact me
 
-[email@domain.com](mailto:yulia@siat.ac.cn)
+![_config.yml]({{ site.baseurl }}/images/logo.png)
+
+[yulia@siat.ac.cn](mailto:yulia@siat.ac.cn)
