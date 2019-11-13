@@ -6,7 +6,7 @@ published: true
 ---
 Here you can find current schedule.
 
-###Day 1
+### Day 1
 
 1. Getting started.
 - What is Python?
@@ -29,7 +29,7 @@ Here you can find current schedule.
 - Time zones
 - Practice
 
-###Day 2
+### Day 2
 
 4. Conditional logic
 5. Loops
@@ -41,10 +41,11 @@ Here you can find current schedule.
 
 8. Decorators
 9. Managing keys
+10. Git and GitHub
 
-###Day 3
+### Day 3
 
-10. How to create a portfolio website and blog with Django **course project**
+10. How to create a portfolio website and blog with Django (**course project**)
 11. Final assessment
 
 
