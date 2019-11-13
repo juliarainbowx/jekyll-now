@@ -3,10 +3,9 @@ layout: post
 title: How to create an Analog Clock with Python and Turtle
 published: true
 ---
-
-![Analog Clock](https://github.com/juliarainbowx/juliarainbowx.github.io/blob/master/images/analog-clock.png "Analog Clock with Python")
-
 You can find working demo on [Repl.it](https://repl.it/@juliarainbowx/Analog-Clock).
+
+![Analog Clock](https://github.com/juliarainbowx/juliarainbowx.github.io/blob/master/images/analog-clock.png)
 
 Code for this lesson:
 
