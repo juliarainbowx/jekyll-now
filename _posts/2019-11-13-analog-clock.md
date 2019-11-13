@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: How to create an Analog Clock with Python and Turtle
+published: true
 ---
 ## How to create an Analog Clock with Python and Turtle
 
