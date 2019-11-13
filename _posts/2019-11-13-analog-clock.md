@@ -5,7 +5,7 @@ published: true
 ---
 You can find working demo on [Repl.it](https://repl.it/@juliarainbowx/Analog-Clock).
 
-![Analog Clock](https://github.com/juliarainbowx/juliarainbowx.github.io/blob/master/images/analog-clock.png)
+![_config.yml]({{ site.baseurl }}/images/analog-clock.png)
 
 Code for this lesson:
 
