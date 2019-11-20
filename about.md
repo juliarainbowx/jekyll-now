@@ -32,21 +32,36 @@ Here you can find current schedule.
 ### Day 2
 
 4. Conditional logic
+- Indentation
+- Multiple conditions
+- Complex conditions
+- Quiz
+
 5. Loops
+- For loop
+While loop
+
 6. Functions
+-How to write functions in Python?
+- Function parameters
+
 7. Calling an API
 - Web service
 - API
-- JSON
 
-8. Decorators
-9. Managing keys
-10. Git and GitHub
+8. JSON
+9. Decorators
+10. Managing keys
 
 ### Day 3
 
 10. How to create a portfolio website and blog with Django (**course project**)
-11. Final assessment
+- What is Django?
+- Getting started
+- Projects
+Blog
+
+11. Projects demonstration
 
 
 ### Contact me
